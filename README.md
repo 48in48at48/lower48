@@ -72,5 +72,7 @@ Below is a high-level overview of the travel schedule. Each state is allocated 6
 
 ## Contact Information
 
-For any questions or additional information, please r
+For any questions or additional information, please reach out to:
 
+- **Email:** [anthony@48in48at48.com](mailto:anthony@48in48at48.com)
+- **Phone:** (123) 456-7890
