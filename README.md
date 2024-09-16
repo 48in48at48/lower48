@@ -1,6 +1,7 @@
 # Travel Route Plan: Exploring All U.S. National Parks in the Lower 48 States
 
-Welcome to the comprehensive guide for exploring all the U.S. National Parks in the lower 48 states. This document outlines the travel route, provides detailed park information, and offers tips for making the most of your adventure.
+Welcome to my comprehensive plan for exploring all the U.S. National Parks in the lower 48 states. This document will outline the travel route, detailed park information including the top 5 rated trails from AllTrails.
+
 
 ## Table of Contents
 
@@ -12,20 +13,21 @@ Welcome to the comprehensive guide for exploring all the U.S. National Parks in 
 
 ## Introduction
 
-This travel route is designed to help you visit all the U.S. National Parks in the lower 48 states. The plan covers the entire journey from start to finish, including travel routes, estimated timeframes, and key highlights for each park.
+This travel route is designed to visit all the U.S. National Parks in the lower 48 states. The plan covers the entire journey from start to finish, including travel routes, estimated timeframes, and key highlights for each park.
+Some of the route guidelines were to have an efficient route without back tracking, visiting southern parks furing the winter and northern parks during the summer.
 
 ## Travel Itinerary
 
 ### Overview
 
-- **Start Date:** December 26, 2026
-- **End Date:** December 25, 2027
-- **Total Duration:** 365 Days
+- **Start Date:** January 2, 2027
+- **End Date:** December 4, 2027
+- **Total Duration:** 336 Days
 - **Number of States:** 48
 
 ### Daily Schedule
 
-Below is a high-level overview of the travel schedule. Each state is allocated 6 days for exploration and 1 day for travel to the next state.
+Below is a high-level overview of the travel schedule. Time in each state will not be equal. 
 
 | **Day** | **State**        | **City/Region**                   | **National Parks to Visit**          |
 |---------|------------------|----------------------------------|--------------------------------------|
