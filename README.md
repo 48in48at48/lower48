@@ -1,6 +1,6 @@
 # Travel Route Plan: Exploring All U.S. National Parks in the Lower 48 States
 
-Welcome to my comprehensive plan for exploring all the U.S. National Parks in the lower 48 states. This document will outline the travel route, detailed park information including the top 5 rated trails from AllTrails.
+Welcome to my comprehensive plan for exploring all the U.S. National Parks & U.S. National Monuments in the lower 48 states. This document will outline the travel route, detailed park information including the top 5 rated trails from AllTrails.
 
 
 ## Table of Contents
@@ -24,7 +24,11 @@ Some of the route guidelines were to have an efficient route without back tracki
 - **End Date:** December 4, 2027
 - **Total Duration:** 336 Days
 - **Number of States:** 48
+- **Number of National Parks:** TBD
+- **Number of National Monuments:** TBD
+- **Estimated miles travelled:** TBD
 
+-  
 ### Daily Schedule
 
 Below is a high-level overview of the travel schedule. Time in each state will not be equal. 
